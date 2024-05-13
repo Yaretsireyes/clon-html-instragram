@@ -1,0 +1,715 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+
+/*Caja 1*/
+.padre {
+    position: fixed;
+}
+
+.container {
+    width: 16.3%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1.7%;
+    border-right: 1px solid rgb(153, 150, 150);
+}
+
+.img1 {
+    height: 14%;
+    width: 14%;
+    margin-top: 10%;
+}
+
+.img3 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 110%;
+    margin-left: -3%;
+}
+
+ul {
+    list-style: none;
+    margin-top: -373%;
+    margin-left: 15%;
+}
+
+.li1 {
+    padding: 9.5%;
+}
+
+.ol:hover {
+    background-color: rgb(238, 234, 234);
+    border-radius: 5%;
+    margin: 1px 1px;
+}
+
+.li22 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 145%;
+}
+
+.li2 {
+    margin-bottom: 20%;
+}
+
+.size {
+    width: 60%;
+    height: 60%;
+    margin: 4%;
+    margin-left: 1%;
+}
+
+.imgg {
+    width: 16%;
+}
+
+
+/*Caja 2*/
+.padre2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    width: 68%;
+    margin-top: 2%;
+    margin-left: 20%;
+}
+
+.historia {
+    margin-left: 3%;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    border-color: 9px solid green;
+}
+
+.fff {
+    width: 60%;
+    display: inline-block;
+    margin-left: 21%;
+}
+
+.let {
+    padding-left: 2.7%;
+    display: inline-block;
+}
+
+.imagen {
+    margin-left: 29%;
+    margin-top: 2%;
+
+}
+
+.imag1 {
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+}
+
+.imag2 {
+    width: 1.5%;
+    margin-left: 37.5%;
+    margin-top: -1.4%;
+
+}
+
+.imag {
+    margin-left: 5%;
+    margin-top: -3.5%;
+    font-size: 115%;
+}
+
+.hora {
+    margin-left: 39%;
+    margin-top: -1.3%;
+}
+
+.audio {
+    margin-top: -0.1%;
+    margin-left: 32.4%;
+    font-size: 90%;
+}
+
+.video {
+    width: 35%;
+    height: 550px;
+    margin-left: 29%;
+    border-radius: 0.5%;
+}
+
+.puntos {
+    width: 3%;
+    margin-left: 61%;
+    margin-top: -41%;
+}
+
+.uan {
+    position: absolute;
+    width: 1.5%;
+    margin-left: 20%;
+    margin-top: 51%;
+}
+
+.cora {
+    margin-left: 29%;
+    margin-top: 51.5%;
+}
+
+.comentario {
+    margin-left: 32%;
+    margin-top: 51.5%;
+}
+
+.enviar {
+    margin-left: 35%;
+    margin-top: 51.5%;
+    width: 1.6%;
+}
+
+.favorito {
+    margin-left: 62.5%;
+    margin-top: 52%;
+}
+
+.like {
+    position: absolute;
+    margin-top: 42%;
+    margin-left: 29%;
+}
+
+.messi {
+    margin-top: 43.5%;
+    margin-left: 29%;
+}
+
+.chek {
+    width: 1.5%;
+    margin-top: 55.2%;
+    margin-left: 33%;
+}
+
+.familia {
+    margin-top: 55.2%;
+    margin-left: 35%;
+}
+
+.yeye {
+    margin-top: 55.2%;
+    margin-left: 38.7%;
+}
+
+.fut {
+    width: 20%;
+    margin-top: 55%;
+    margin-left: 40%;
+}
+
+.vercomentarios {
+    position: absolute;
+    margin-top: 57%;
+    margin-left: 28.9%;
+    color: gray;
+}
+
+.input1 {
+    position: absolute;
+    width: 11%;
+    margin-top: 59%;
+    margin-left: 29%;
+    color: gray;
+    border: transparent;
+    outline: none;
+}
+
+.emoji {
+    position: absolute;
+    width: 0.8%;
+    margin-top: 59.5%;
+    margin-left: 62.7%;
+
+}
+
+.foto {
+    position: absolute;
+    margin-left: 29%;
+    margin-top: 50%;
+
+}
+
+.foto1 {
+    position: absolute;
+    margin-left: -10%;
+    border-radius: 100%;
+    width: 42px;
+    height: 40px;
+
+}
+
+.foto2 {
+    margin-left: 73%;
+    margin-top: 17%;
+    font-size: 115%;
+}
+
+.foto3 {
+    position: absolute;
+    width: 1.5%;
+    margin-top: 50.7%;
+    margin-left: 37.5%;
+}
+
+.hora2 {
+    position: absolute;
+    margin-top: 50.9%;
+    margin-left: 39.5%;
+}
+
+.foto4 {
+    position: absolute;
+    border-radius: 0.5%;
+    width: 35%;
+    height: 63%;
+    margin-top: 53.5%;
+    margin-left: 29%;
+}
+
+.puntoo2 {
+    position: absolute;
+    width: 3.5%;
+    margin-top: 51%;
+    margin-left: 61.2%;
+
+}
+
+.cora2 {
+    position: absolute;
+    width: 1.5%;
+    margin-top: 89%;
+    margin-left: 29%;
+}
+
+.comentario2 {
+    position: absolute;
+    width: 1.5%;
+    margin-top: 89%;
+    margin-left: 32%;
+}
+
+.enviar2 {
+    position: absolute;
+    width: 1.5%;
+    margin-top: 89%;
+    margin-left: 35%;
+}
+
+.favorito2 {
+    position: absolute;
+    width: 1.5%;
+    margin-top: 89%;
+    margin-left: 62%;
+}
+
+.like2 {
+    position: absolute;
+    margin-top: 91%;
+    margin-left: 29%;
+}
+
+.cris {
+    position: absolute;
+    margin-top: 92.5%;
+    margin-left: 29%;
+}
+
+.chek2 {
+    position: absolute;
+    width: 1.5%;
+    margin-top: 92.4%;
+    margin-left: 33%;
+}
+
+.ready {
+    position: absolute;
+    margin-top: 92.5%;
+    margin-left: 35%;
+}
+
+.comentario1 {
+    position: absolute;
+    margin-top: 94.4%;
+    margin-left: 28.9%;
+    color: gray;
+}
+
+.input2 {
+    position: absolute;
+    width: 11%;
+    margin-top: 96.3%;
+    margin-left: 29%;
+    color: gray;
+    border: transparent;
+    outline: none;
+}
+
+.emoji1 {
+    position: absolute;
+    width: 0.8%;
+    margin-top: 96.5%;
+    margin-left: 62.7%;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.dino {
+    position: absolute;
+    border-radius: 100%;
+    width: 3%;
+    top: 200%;
+    left: 29%;
+}
+
+.gif1 {
+    position: absolute;
+    border-radius: 0.5%;
+    width: 35%;
+    height: 65%;
+    top: 207%;
+    left: 29.2%;
+}
+
+.punto3 {
+    position: absolute;
+    width: 3.5%;
+    top: 202%;
+    left: 61%;
+}
+
+.ronal1 {
+    position: absolute;
+    top: 201.2%;
+    left: 33%;
+}
+
+.chek3 {
+    position: absolute;
+    width: 1.5%;
+    top: 200.8%;
+    left: 38.4%;
+}
+
+.hora3 {
+    position: absolute;
+    top: 201.3%;
+    left: 40.3%;
+}
+
+.audio3 {
+    position: absolute;
+    top: 203.6%;
+    left: 32.9%;
+}
+
+.cora3 {
+    position: absolute;
+    width: 1.5%;
+    top: 273.2%;
+    left: 29.5%;
+}
+
+.comentario3 {
+    position: absolute;
+    width: 1.5%;
+    top: 273.2%;
+    left: 33%;
+}
+
+.enviar3 {
+    position: absolute;
+    width: 1.5%;
+    top: 273.1%;
+    left: 36%;
+}
+
+.fav3 {
+    position: absolute;
+    width: 1.5%;
+    top: 273%;
+    left: 62.4%;
+}
+
+.like4 {
+    position: absolute;
+    top: 276.8%;
+    left: 29.6%;
+    color: black;
+}
+
+.ronal2 {
+    position: absolute;
+    top: 279.5%;
+    left: 29.6%;
+}
+
+.chek5 {
+    position: absolute;
+    width: 1.5%;
+    top: 279.3%;
+    left: 34.9%;
+}
+
+.coment1 {
+    position: absolute;
+    top: 279.5%;
+    left: 36.5%;
+    color: rgb(40, 39, 39);
+}
+
+.vertra {
+    position: absolute;
+    top: 282%;
+    left: 29.5%;
+    color: black;
+}
+
+.vercomentario3 {
+    position: absolute;
+    top: 284.5%;
+    left: 29.5%;
+    color: gray;
+}
+
+.input3 {
+    position: absolute;
+    top: 287.5%;
+    left: 29.5%;
+    outline: none;
+    border: transparent;
+
+}
+
+.emoji3 {
+    position: absolute;
+    top: 287.5%;
+    left: 63%;
+    width: 0.9%;
+}
+
+.fure {
+    width: 7%;
+    position: absolute;
+    top: 300%;
+    left: 43%;
+}
+
+.dia {
+    position: absolute;
+    top: 314.5%;
+    left: 43%;
+    font-size: 135%;
+}
+
+.vista {
+    position: absolute;
+    top: 318%;
+    left: 35%;
+    font-size: 100%;
+    color: rgb(37, 37, 37);
+}
+
+.publican1 {
+    position: absolute;
+    top: 322%;
+    left: 40%;
+    font-size: 100%;
+    color: rgb(0, 149, 246);
+}
+
+.cora:hover {
+    margin: 0.5px 0.5px;
+}
+
+.cora2:hover {
+    margin: 0.5px 0.5px;
+}
+
+.cora3:hover {
+    margin: 0.5px 0.5px;
+}
+
+.comentario:hover {
+    margin: 0.5px 0.5px;
+}
+
+.comentario2:hover {
+    margin: 0.5px 0.5px;
+}
+
+.comentario3:hover {
+    margin: 0.5px 0.5px;
+}
+
+.enviar:hover {
+    margin: 0.5px 0.5px;
+}
+
+.enviar2:hover {
+    margin: 0.5px 0.5px;
+}
+
+.enviar3:hover {
+    margin: 1px 1px;
+}
+
+.favorito:hover {
+    margin: 0.5px 0.5px;
+}
+
+.favorito2:hover {
+    margin: 0.5px 0.5px;
+}
+
+.fav3:hover {
+    margin: 0.5px 0.5px;
+}
+
+.emoji3:hover {
+    margin: 1px 1px;
+}
+
+.emoji1:hover {
+    margin: 0.5px 0.5px;
+}
+
+.emoji:hover {
+    margin: 0.5px 0.5px;
+}
+
+.historia {
+    border: 3.4px solid green;
+
+}
+
+
+/*Caja 3*/
+.padre3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.container3 {
+    margin-left: 76%;
+    margin-top: -9%;
+
+}
+
+.perfiles {
+    width: 13.5%;
+}
+
+.sugerencia {
+    margin-top: 8%;
+    color: gray;
+}
+
+.name {
+
+    margin-left: 80%;
+    margin-top: -25.3%;
+    width: 10%;
+}
+
+.nam1 {
+    margin-top: 55%;
+}
+
+.nam2 {
+    margin-top: 10%;
+}
+
+.nam3 {
+    margin-top: 10%;
+}
+
+.nam4 {
+    margin-top: 10%;
+}
+
+.nam5 {
+    margin-top: 10%;
+}
+
+.nam {
+    color: gray;
+}
+
+.linea {
+    margin-left: 90%;
+    margin-top: -25.3%;
+    width: 10%;
+}
+
+.linea1 {
+    margin-top: 9%;
+    color: rgb(51, 146, 255);
+}
+
+.linea2 {
+    margin-top: 30%;
+    color: black;
+}
+
+.linea3 {
+    margin-top: 23%;
+    color: rgb(51, 146, 255);
+}
+
+.linea4 {
+    margin-top: 23%;
+    color: rgb(51, 146, 255);
+}
+
+.linea5 {
+    margin-top: 23%;
+    color: rgb(51, 146, 255);
+}
+
+.linea6 {
+    margin-top: 23%;
+    color: rgb(51, 146, 255);
+}
+
+.linea7 {
+    margin-top: 23%;
+    color: rgb(51, 146, 255);
+}
+
+.infor {
+    position: absolute;
+    width: 20%;
+    margin-top: 20%;
+    margin-left: 77%;
+    color: rgb(180, 178, 178);
+}
+
+.from {
+    margin-top: 25%;
+}
